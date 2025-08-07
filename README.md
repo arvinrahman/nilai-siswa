@@ -43,13 +43,6 @@ Sebagai penerima informasi akademik pribadi.
 
 ---
 
-## 🛠 Teknologi yang Digunakan
-- PHP & MySQL
-- HTML, CSS, JavaScript
-- Bootstrap (Opsional)
-- Laravel / CodeIgniter (Opsional)
-- Database Relasional
-
 ---
 
 ## 📌 Struktur Folder (Opsional)

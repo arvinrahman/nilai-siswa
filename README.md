@@ -56,7 +56,9 @@ Sebagai penerima informasi akademik pribadi.
 📌 File: docs/activity.png  
 ![Activity](activity_diagram_nilai_siswa.drawio.png)
 
-
+## 🗄 Diagram Basis Data
+📌 File: db_diagram_nilai_siswa.png
+![Flowchart](db_diagram_nilai_siswa.png)
 
 
 

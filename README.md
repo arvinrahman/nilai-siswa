@@ -44,7 +44,7 @@ Sebagai penerima informasi akademik pribadi.
 ---
 
 ## 🧭 Flowchart
-📌 File: docs/flowchart.png  
+📌 File: flowchart_nilai_siswa.drawio.png
 ![Flowchart](docs/flowchart_nilai_siswa.drawio.png)
 
 

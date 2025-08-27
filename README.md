@@ -43,6 +43,11 @@ Sebagai penerima informasi akademik pribadi.
 
 ---
 
+## 🧭 Flowchart
+📌 File: docs/flowchart.png  
+![Flowchart](docs/flowchart_nilai_siswa.drawio.png)
+
+
 ---
 
 ## 📌 Struktur Folder (Opsional)

@@ -48,6 +48,19 @@ Sebagai penerima informasi akademik pribadi.
 ![Flowchart](flowchart_nilai_siswa.drawio.png)
 
 
+## 📊 Use Case Diagram
+📌 File: docs/usecase.png  
+![Use Case](usecase.drawio.png)
+
+## 🔄 Activity Diagram
+📌 File: docs/activity.png  
+![Activity](activity_diagram_nilai_siswa.drawio.png)
+
+
+
+
+
+
 ---
 
 ## 📌 Struktur Folder (Opsional)

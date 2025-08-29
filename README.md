@@ -66,11 +66,11 @@ Sebagai penerima informasi akademik pribadi.
 ![Login.png](sketsa1.jpg)
 
 
-📊 Dashboard Admin
+📊 Dashboard guru
 ![Dashboard_admin.png](sketsa2.jpg)
 
 
-📌 Dashboard Guru
+📌 Dashboard admin
 ![Dashboard_guru.png](sketsa3.jpg)
 
 

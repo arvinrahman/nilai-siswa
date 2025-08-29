@@ -60,7 +60,22 @@ Sebagai penerima informasi akademik pribadi.
 📌 File: db_diagram_nilai_siswa.png
 ![Flowchart](db_diagram_nilai_siswa.png)
 
+🖥 Tampilan Antarmuka
 
+🔐 Halaman Login
+![Login.png](sketsa1.jpg)
+
+
+📊 Dashboard Admin
+![Dashboard_admin.png](sketsa2.jpg)
+
+
+📌 Dashboard Guru
+![Dashboard_guru.png](sketsa3.jpg)
+
+
+📚 Dashboard Siswa
+![Dashboard_murid.png](sketsa4.jpg)
 
 
 ---
